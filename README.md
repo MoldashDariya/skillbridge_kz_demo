@@ -11,7 +11,7 @@ npm install
 npm run dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000).
+https://skillbridge-kz-demo.vercel.app/
 
 To create a production build:
 
